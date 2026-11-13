@@ -1,0 +1,8 @@
+# Install in addition to requirements.txt when configuring transformer models.
+transformers>=4.46,<5
+torch>=2.2,<3
+huggingface-hub>=0.23,<1
+onnxruntime>=1.18,<2
+av>=12,<16
+numpy>=1.26,<2.3
+easyocr>=1.7,<2
